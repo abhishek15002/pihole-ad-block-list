@@ -957,11 +957,11 @@ video-fa-b.cdn.spotify.com
 0.0.0.0 ad3.adfarm1.adition.com
 0.0.0.0 a301.w62d.akamai.net
 0.0.0.0 a297.c.akamai.net
-127.0.0.1 beta.spotify.map.fastly.net
-127.0.0.1 beta.spotify.map.fastlylb.net
-127.0.0.1 prod.spotify-heads.map.fastlylb.net
-127.0.0.1 prod.spotify.map.fastly.net
-127.0.0.1 prod.spotify.map.fastlylb.net
+beta.spotify.map.fastly.net
+beta.spotify.map.fastlylb.net
+prod.spotify-heads.map.fastlylb.net
+prod.spotify.map.fastly.net
+prod.spotify.map.fastlylb.net
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ads-fa.spotify.com
